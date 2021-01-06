@@ -36,7 +36,7 @@
             <version>3.4.1</version>
         </dependency>
         <dependency>
-            <groupId>org.webjars</groupId>
+            <groupId>org.webjars</groupId>git branch
             <artifactId>jquery-ui</artifactId>
             <version>1.12.1</version>
         </dependency>
